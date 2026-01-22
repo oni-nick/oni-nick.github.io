@@ -1,6 +1,6 @@
 ---
 title: System.out.println("Hello World");
-date: 2026-01-22 15:30:00 +0900
+date: 2026-01-21 15:30:00 +0900
 categories: [DevLog, Beginning]
 tags: [hello-world, angular, typescript, career]
 ---
